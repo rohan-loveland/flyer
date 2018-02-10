@@ -1,0 +1,6 @@
+﻿Flyer Notes:
+
+2/6/18
+Agent is constantly putting out 0's - this has an interaction with epsilon so that it looks like it's training - there's a range of epsilon's where you get best results (!)  Checked by setting policy to 0 - sho nuff
+
+
